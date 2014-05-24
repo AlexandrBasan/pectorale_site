@@ -1,0 +1,207 @@
+# Logfile created on 2014-05-24 19:00:03 +0300 by logger.rb/44203
+I, [2014-05-24T19:00:03.307120 #8375]  INFO -- : 0:  rake (10.3.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rake-10.3.1.gemspec
+I, [2014-05-24T19:00:03.307854 #8375]  INFO -- : 0:  i18n (0.6.9) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/i18n-0.6.9.gemspec
+I, [2014-05-24T19:00:03.308217 #8375]  INFO -- : 0:  minitest (4.7.5) from /Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-05-24T19:00:03.308545 #8375]  INFO -- : 0:  multi_json (1.10.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/multi_json-1.10.0.gemspec
+I, [2014-05-24T19:00:03.308864 #8375]  INFO -- : 0:  thread_safe (0.3.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/thread_safe-0.3.3.gemspec
+I, [2014-05-24T19:00:03.309178 #8375]  INFO -- : 0:  tzinfo (0.3.39) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/tzinfo-0.3.39.gemspec
+I, [2014-05-24T19:00:03.309483 #8375]  INFO -- : 0:  activesupport (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activesupport-4.0.3.gemspec
+I, [2014-05-24T19:00:03.309795 #8375]  INFO -- : 0:  builder (3.1.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/builder-3.1.4.gemspec
+I, [2014-05-24T19:00:03.310105 #8375]  INFO -- : 0:  erubis (2.7.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/erubis-2.7.0.gemspec
+I, [2014-05-24T19:00:03.310412 #8375]  INFO -- : 0:  rack (1.5.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rack-1.5.2.gemspec
+I, [2014-05-24T19:00:03.310736 #8375]  INFO -- : 0:  rack-test (0.6.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rack-test-0.6.2.gemspec
+I, [2014-05-24T19:00:03.311045 #8375]  INFO -- : 0:  actionpack (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/actionpack-4.0.3.gemspec
+I, [2014-05-24T19:00:03.311366 #8375]  INFO -- : 0:  mime-types (1.25.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/mime-types-1.25.1.gemspec
+I, [2014-05-24T19:00:03.311673 #8375]  INFO -- : 0:  polyglot (0.3.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/polyglot-0.3.4.gemspec
+I, [2014-05-24T19:00:03.311987 #8375]  INFO -- : 0:  treetop (1.4.15) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/treetop-1.4.15.gemspec
+I, [2014-05-24T19:00:03.312299 #8375]  INFO -- : 0:  mail (2.5.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/mail-2.5.4.gemspec
+I, [2014-05-24T19:00:03.312610 #8375]  INFO -- : 0:  actionmailer (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/actionmailer-4.0.3.gemspec
+I, [2014-05-24T19:00:03.312945 #8375]  INFO -- : 0:  activemodel (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activemodel-4.0.3.gemspec
+I, [2014-05-24T19:00:03.313232 #8375]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-05-24T19:00:03.313510 #8375]  INFO -- : 0:  arel (4.0.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/arel-4.0.2.gemspec
+I, [2014-05-24T19:00:03.313864 #8375]  INFO -- : 0:  activerecord (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activerecord-4.0.3.gemspec
+I, [2014-05-24T19:00:03.314248 #8375]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-05-24T19:00:03.314659 #8375]  INFO -- : 0:  sass (3.3.7) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/sass-3.3.7.gemspec
+I, [2014-05-24T19:00:03.314983 #8375]  INFO -- : 0:  bootstrap-sass (3.1.1.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/bootstrap-sass-3.1.1.1.gemspec
+I, [2014-05-24T19:00:03.315266 #8375]  INFO -- : 0:  will_paginate (3.0.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/will_paginate-3.0.4.gemspec
+I, [2014-05-24T19:00:03.315543 #8375]  INFO -- : 0:  bootstrap-will_paginate (0.0.10) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/bootstrap-will_paginate-0.0.10.gemspec
+I, [2014-05-24T19:00:03.315830 #8375]  INFO -- : 0:  mini_portile (0.5.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/mini_portile-0.5.3.gemspec
+I, [2014-05-24T19:00:03.316098 #8375]  INFO -- : 0:  nokogiri (1.6.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/nokogiri-1.6.1.gemspec
+I, [2014-05-24T19:00:03.316371 #8375]  INFO -- : 0:  xpath (2.0.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/xpath-2.0.0.gemspec
+I, [2014-05-24T19:00:03.316635 #8375]  INFO -- : 0:  capybara (2.1.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/capybara-2.1.0.gemspec
+I, [2014-05-24T19:00:03.316913 #8375]  INFO -- : 0:  timers (1.1.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/timers-1.1.0.gemspec
+I, [2014-05-24T19:00:03.317199 #8375]  INFO -- : 0:  celluloid (0.15.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/celluloid-0.15.2.gemspec
+I, [2014-05-24T19:00:03.317498 #8375]  INFO -- : 0:  nio4r (1.0.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/nio4r-1.0.0.gemspec
+I, [2014-05-24T19:00:03.317765 #8375]  INFO -- : 0:  celluloid-io (0.15.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/celluloid-io-0.15.0.gemspec
+I, [2014-05-24T19:00:03.318008 #8375]  INFO -- : 0:  ffi (1.9.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/ffi-1.9.3.gemspec
+I, [2014-05-24T19:00:03.318250 #8375]  INFO -- : 0:  childprocess (0.3.6) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/childprocess-0.3.6.gemspec
+I, [2014-05-24T19:00:03.318498 #8375]  INFO -- : 0:  coderay (1.1.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coderay-1.1.0.gemspec
+I, [2014-05-24T19:00:03.318745 #8375]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-05-24T19:00:03.318998 #8375]  INFO -- : 0:  execjs (2.0.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/execjs-2.0.2.gemspec
+I, [2014-05-24T19:00:03.319250 #8375]  INFO -- : 0:  coffee-script (2.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coffee-script-2.2.0.gemspec
+I, [2014-05-24T19:00:03.319496 #8375]  INFO -- : 0:  thor (0.19.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/thor-0.19.1.gemspec
+I, [2014-05-24T19:00:03.319734 #8375]  INFO -- : 0:  railties (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/railties-4.0.3.gemspec
+I, [2014-05-24T19:00:03.319977 #8375]  INFO -- : 0:  coffee-rails (4.0.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-05-24T19:00:03.320214 #8375]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-05-24T19:00:03.320463 #8375]  INFO -- : 0:  gherkin (2.12.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/gherkin-2.12.2.gemspec
+I, [2014-05-24T19:00:03.320704 #8375]  INFO -- : 0:  multi_test (0.1.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/multi_test-0.1.1.gemspec
+I, [2014-05-24T19:00:03.320952 #8375]  INFO -- : 0:  cucumber (1.3.15) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/cucumber-1.3.15.gemspec
+I, [2014-05-24T19:00:03.321215 #8375]  INFO -- : 0:  cucumber-rails (1.3.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/cucumber-rails-1.3.0.gemspec
+I, [2014-05-24T19:00:03.444219 #8375]  INFO -- : 0:  database_cleaner (1.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/bundler/gems/database_cleaner-35bd646903fc/database_cleaner.gemspec
+I, [2014-05-24T19:00:03.444626 #8375]  INFO -- : 0:  factory_girl (4.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/factory_girl-4.2.0.gemspec
+I, [2014-05-24T19:00:03.444915 #8375]  INFO -- : 0:  factory_girl_rails (4.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/factory_girl_rails-4.2.0.gemspec
+I, [2014-05-24T19:00:03.445200 #8375]  INFO -- : 0:  faker (1.1.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/faker-1.1.2.gemspec
+I, [2014-05-24T19:00:03.445469 #8375]  INFO -- : 0:  formatador (0.2.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/formatador-0.2.4.gemspec
+I, [2014-05-24T19:00:03.445712 #8375]  INFO -- : 0:  growl (1.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/growl-1.0.3.gemspec
+I, [2014-05-24T19:00:03.445953 #8375]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-05-24T19:00:03.446196 #8375]  INFO -- : 0:  rb-inotify (0.9.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rb-inotify-0.9.4.gemspec
+I, [2014-05-24T19:00:03.446440 #8375]  INFO -- : 0:  listen (2.7.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/listen-2.7.4.gemspec
+I, [2014-05-24T19:00:03.446676 #8375]  INFO -- : 0:  lumberjack (1.0.5) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/lumberjack-1.0.5.gemspec
+I, [2014-05-24T19:00:03.446914 #8375]  INFO -- : 0:  method_source (0.8.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/method_source-0.8.2.gemspec
+I, [2014-05-24T19:00:03.447180 #8375]  INFO -- : 0:  slop (3.5.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/slop-3.5.0.gemspec
+I, [2014-05-24T19:00:03.447393 #8375]  INFO -- : 0:  pry (0.9.12.6) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/pry-0.9.12.6.gemspec
+I, [2014-05-24T19:00:03.447594 #8375]  INFO -- : 0:  guard (2.6.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/guard-2.6.1.gemspec
+I, [2014-05-24T19:00:03.447809 #8375]  INFO -- : 0:  rspec-core (2.13.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-core-2.13.1.gemspec
+I, [2014-05-24T19:00:03.448014 #8375]  INFO -- : 0:  rspec-expectations (2.13.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-expectations-2.13.0.gemspec
+I, [2014-05-24T19:00:03.448220 #8375]  INFO -- : 0:  rspec-mocks (2.13.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-mocks-2.13.1.gemspec
+I, [2014-05-24T19:00:03.448428 #8375]  INFO -- : 0:  rspec (2.13.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-2.13.0.gemspec
+I, [2014-05-24T19:00:03.448633 #8375]  INFO -- : 0:  guard-rspec (2.5.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/guard-rspec-2.5.0.gemspec
+I, [2014-05-24T19:00:03.448830 #8375]  INFO -- : 0:  spork (1.0.0rc4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/spork-1.0.0rc4.gemspec
+I, [2014-05-24T19:00:03.449037 #8375]  INFO -- : 0:  guard-spork (1.5.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/guard-spork-1.5.0.gemspec
+I, [2014-05-24T19:00:03.449239 #8375]  INFO -- : 0:  hike (1.2.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/hike-1.2.3.gemspec
+I, [2014-05-24T19:00:03.449442 #8375]  INFO -- : 0:  jbuilder (1.0.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/jbuilder-1.0.2.gemspec
+I, [2014-05-24T19:00:03.449652 #8375]  INFO -- : 0:  jquery-rails (3.0.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-05-24T19:00:03.449846 #8375]  INFO -- : 0:  json (1.8.1) from /Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+E, [2014-05-24T19:00:04.950367 #8375] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/alexandr/.rvm/rubies/ruby-2.1.0/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/alexandr/.rvm/rubies/ruby-2.1.0/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/alexandr/.rvm/gems/ruby-2.1.0@law/gems/pg-0.15.1 for inspection.
+Results logged to /Users/alexandr/.rvm/gems/ruby-2.1.0@law/extensions/x86_64-darwin-12/2.1.0-static/pg-0.15.1/gem_make.out
+
+/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/tempfile.rb:324:in `open'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/site_ruby/2.1.0/rubygems/installer.rb:232:in `install'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/forwardable.rb:183:in `each'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `load'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@global/bin/bundle:23:in `<main>'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@law/bin/ruby_executable_hooks:15:in `eval'  \n/Users/alexandr/.rvm/gems/ruby-2.1.0@law/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-05-24T19:01:48.494589 #8461]  INFO -- : 0:  rake (10.3.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rake-10.3.1.gemspec
+I, [2014-05-24T19:01:48.494918 #8461]  INFO -- : 0:  i18n (0.6.9) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/i18n-0.6.9.gemspec
+I, [2014-05-24T19:01:48.495168 #8461]  INFO -- : 0:  minitest (4.7.5) from /Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/minitest-4.7.5.gemspec
+I, [2014-05-24T19:01:48.495383 #8461]  INFO -- : 0:  multi_json (1.10.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/multi_json-1.10.0.gemspec
+I, [2014-05-24T19:01:48.495592 #8461]  INFO -- : 0:  thread_safe (0.3.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/thread_safe-0.3.3.gemspec
+I, [2014-05-24T19:01:48.495792 #8461]  INFO -- : 0:  tzinfo (0.3.39) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/tzinfo-0.3.39.gemspec
+I, [2014-05-24T19:01:48.496000 #8461]  INFO -- : 0:  activesupport (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activesupport-4.0.3.gemspec
+I, [2014-05-24T19:01:48.496208 #8461]  INFO -- : 0:  builder (3.1.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/builder-3.1.4.gemspec
+I, [2014-05-24T19:01:48.496427 #8461]  INFO -- : 0:  erubis (2.7.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/erubis-2.7.0.gemspec
+I, [2014-05-24T19:01:48.496650 #8461]  INFO -- : 0:  rack (1.5.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rack-1.5.2.gemspec
+I, [2014-05-24T19:01:48.496875 #8461]  INFO -- : 0:  rack-test (0.6.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rack-test-0.6.2.gemspec
+I, [2014-05-24T19:01:48.497080 #8461]  INFO -- : 0:  actionpack (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/actionpack-4.0.3.gemspec
+I, [2014-05-24T19:01:48.497294 #8461]  INFO -- : 0:  mime-types (1.25.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/mime-types-1.25.1.gemspec
+I, [2014-05-24T19:01:48.497495 #8461]  INFO -- : 0:  polyglot (0.3.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/polyglot-0.3.4.gemspec
+I, [2014-05-24T19:01:48.497698 #8461]  INFO -- : 0:  treetop (1.4.15) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/treetop-1.4.15.gemspec
+I, [2014-05-24T19:01:48.497902 #8461]  INFO -- : 0:  mail (2.5.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/mail-2.5.4.gemspec
+I, [2014-05-24T19:01:48.498132 #8461]  INFO -- : 0:  actionmailer (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/actionmailer-4.0.3.gemspec
+I, [2014-05-24T19:01:48.498356 #8461]  INFO -- : 0:  activemodel (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activemodel-4.0.3.gemspec
+I, [2014-05-24T19:01:48.498551 #8461]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-05-24T19:01:48.498773 #8461]  INFO -- : 0:  arel (4.0.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/arel-4.0.2.gemspec
+I, [2014-05-24T19:01:48.498977 #8461]  INFO -- : 0:  activerecord (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/activerecord-4.0.3.gemspec
+I, [2014-05-24T19:01:48.499219 #8461]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-05-24T19:01:48.499443 #8461]  INFO -- : 0:  sass (3.3.7) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/sass-3.3.7.gemspec
+I, [2014-05-24T19:01:48.499656 #8461]  INFO -- : 0:  bootstrap-sass (3.1.1.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/bootstrap-sass-3.1.1.1.gemspec
+I, [2014-05-24T19:01:48.499861 #8461]  INFO -- : 0:  will_paginate (3.0.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/will_paginate-3.0.4.gemspec
+I, [2014-05-24T19:01:48.500091 #8461]  INFO -- : 0:  bootstrap-will_paginate (0.0.10) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/bootstrap-will_paginate-0.0.10.gemspec
+I, [2014-05-24T19:01:48.500315 #8461]  INFO -- : 0:  mini_portile (0.5.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/mini_portile-0.5.3.gemspec
+I, [2014-05-24T19:01:48.500543 #8461]  INFO -- : 0:  nokogiri (1.6.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/nokogiri-1.6.1.gemspec
+I, [2014-05-24T19:01:48.500784 #8461]  INFO -- : 0:  xpath (2.0.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/xpath-2.0.0.gemspec
+I, [2014-05-24T19:01:48.501025 #8461]  INFO -- : 0:  capybara (2.1.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/capybara-2.1.0.gemspec
+I, [2014-05-24T19:01:48.501265 #8461]  INFO -- : 0:  timers (1.1.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/timers-1.1.0.gemspec
+I, [2014-05-24T19:01:48.501503 #8461]  INFO -- : 0:  celluloid (0.15.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/celluloid-0.15.2.gemspec
+I, [2014-05-24T19:01:48.501721 #8461]  INFO -- : 0:  nio4r (1.0.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/nio4r-1.0.0.gemspec
+I, [2014-05-24T19:01:48.501926 #8461]  INFO -- : 0:  celluloid-io (0.15.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/celluloid-io-0.15.0.gemspec
+I, [2014-05-24T19:01:48.502126 #8461]  INFO -- : 0:  ffi (1.9.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/ffi-1.9.3.gemspec
+I, [2014-05-24T19:01:48.502341 #8461]  INFO -- : 0:  childprocess (0.3.6) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/childprocess-0.3.6.gemspec
+I, [2014-05-24T19:01:48.502545 #8461]  INFO -- : 0:  coderay (1.1.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coderay-1.1.0.gemspec
+I, [2014-05-24T19:01:48.502747 #8461]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-05-24T19:01:48.504351 #8461]  INFO -- : 0:  execjs (2.0.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/execjs-2.0.2.gemspec
+I, [2014-05-24T19:01:48.504645 #8461]  INFO -- : 0:  coffee-script (2.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coffee-script-2.2.0.gemspec
+I, [2014-05-24T19:01:48.504932 #8461]  INFO -- : 0:  thor (0.19.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/thor-0.19.1.gemspec
+I, [2014-05-24T19:01:48.505132 #8461]  INFO -- : 0:  railties (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/railties-4.0.3.gemspec
+I, [2014-05-24T19:01:48.505339 #8461]  INFO -- : 0:  coffee-rails (4.0.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-05-24T19:01:48.505543 #8461]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-05-24T19:01:48.505749 #8461]  INFO -- : 0:  gherkin (2.12.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/gherkin-2.12.2.gemspec
+I, [2014-05-24T19:01:48.505956 #8461]  INFO -- : 0:  multi_test (0.1.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/multi_test-0.1.1.gemspec
+I, [2014-05-24T19:01:48.506172 #8461]  INFO -- : 0:  cucumber (1.3.15) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/cucumber-1.3.15.gemspec
+I, [2014-05-24T19:01:48.506407 #8461]  INFO -- : 0:  cucumber-rails (1.3.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/cucumber-rails-1.3.0.gemspec
+I, [2014-05-24T19:01:48.600749 #8461]  INFO -- : 0:  database_cleaner (1.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/bundler/gems/database_cleaner-35bd646903fc/database_cleaner.gemspec
+I, [2014-05-24T19:01:48.601189 #8461]  INFO -- : 0:  factory_girl (4.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/factory_girl-4.2.0.gemspec
+I, [2014-05-24T19:01:48.601546 #8461]  INFO -- : 0:  factory_girl_rails (4.2.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/factory_girl_rails-4.2.0.gemspec
+I, [2014-05-24T19:01:48.601847 #8461]  INFO -- : 0:  faker (1.1.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/faker-1.1.2.gemspec
+I, [2014-05-24T19:01:48.602147 #8461]  INFO -- : 0:  formatador (0.2.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/formatador-0.2.4.gemspec
+I, [2014-05-24T19:01:48.602459 #8461]  INFO -- : 0:  growl (1.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/growl-1.0.3.gemspec
+I, [2014-05-24T19:01:48.602770 #8461]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-05-24T19:01:48.603076 #8461]  INFO -- : 0:  rb-inotify (0.9.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rb-inotify-0.9.4.gemspec
+I, [2014-05-24T19:01:48.603384 #8461]  INFO -- : 0:  listen (2.7.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/listen-2.7.4.gemspec
+I, [2014-05-24T19:01:48.603707 #8461]  INFO -- : 0:  lumberjack (1.0.5) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/lumberjack-1.0.5.gemspec
+I, [2014-05-24T19:01:48.603998 #8461]  INFO -- : 0:  method_source (0.8.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/method_source-0.8.2.gemspec
+I, [2014-05-24T19:01:48.604299 #8461]  INFO -- : 0:  slop (3.5.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/slop-3.5.0.gemspec
+I, [2014-05-24T19:01:48.604601 #8461]  INFO -- : 0:  pry (0.9.12.6) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/pry-0.9.12.6.gemspec
+I, [2014-05-24T19:01:48.604910 #8461]  INFO -- : 0:  guard (2.6.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/guard-2.6.1.gemspec
+I, [2014-05-24T19:01:48.605228 #8461]  INFO -- : 0:  rspec-core (2.13.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-core-2.13.1.gemspec
+I, [2014-05-24T19:01:48.605524 #8461]  INFO -- : 0:  rspec-expectations (2.13.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-expectations-2.13.0.gemspec
+I, [2014-05-24T19:01:48.605817 #8461]  INFO -- : 0:  rspec-mocks (2.13.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-mocks-2.13.1.gemspec
+I, [2014-05-24T19:01:48.606120 #8461]  INFO -- : 0:  rspec (2.13.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-2.13.0.gemspec
+I, [2014-05-24T19:01:48.606432 #8461]  INFO -- : 0:  guard-rspec (2.5.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/guard-rspec-2.5.0.gemspec
+I, [2014-05-24T19:01:48.606731 #8461]  INFO -- : 0:  spork (1.0.0rc4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/spork-1.0.0rc4.gemspec
+I, [2014-05-24T19:01:48.607032 #8461]  INFO -- : 0:  guard-spork (1.5.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/guard-spork-1.5.0.gemspec
+I, [2014-05-24T19:01:48.607297 #8461]  INFO -- : 0:  hike (1.2.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/hike-1.2.3.gemspec
+I, [2014-05-24T19:01:48.607580 #8461]  INFO -- : 0:  jbuilder (1.0.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/jbuilder-1.0.2.gemspec
+I, [2014-05-24T19:01:48.607879 #8461]  INFO -- : 0:  jquery-rails (3.0.4) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-05-24T19:01:48.608118 #8461]  INFO -- : 0:  json (1.8.1) from /Users/alexandr/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-05-24T19:01:48.608383 #8461]  INFO -- : 0:  bundler (1.5.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-05-24T19:01:48.608613 #8461]  INFO -- : 0:  tilt (1.4.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/tilt-1.4.1.gemspec
+I, [2014-05-24T19:01:48.608849 #8461]  INFO -- : 0:  sprockets (2.11.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/sprockets-2.11.0.gemspec
+I, [2014-05-24T19:01:48.609093 #8461]  INFO -- : 0:  sprockets-rails (2.0.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-05-24T19:01:48.609333 #8461]  INFO -- : 0:  rails (4.0.3) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rails-4.0.3.gemspec
+I, [2014-05-24T19:01:48.609586 #8461]  INFO -- : 0:  rails-i18n (4.0.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rails-i18n-4.0.2.gemspec
+I, [2014-05-24T19:01:48.609841 #8461]  INFO -- : 0:  rdoc (3.12.2) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rdoc-3.12.2.gemspec
+I, [2014-05-24T19:01:48.610140 #8461]  INFO -- : 0:  rspec-rails (2.13.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rspec-rails-2.13.1.gemspec
+I, [2014-05-24T19:01:48.610417 #8461]  INFO -- : 0:  rubyzip (0.9.9) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/rubyzip-0.9.9.gemspec
+I, [2014-05-24T19:01:48.610670 #8461]  INFO -- : 0:  sass-rails (4.0.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/sass-rails-4.0.1.gemspec
+I, [2014-05-24T19:01:48.610940 #8461]  INFO -- : 0:  sdoc (0.3.20) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/sdoc-0.3.20.gemspec
+I, [2014-05-24T19:01:48.611178 #8461]  INFO -- : 0:  websocket (1.0.7) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/websocket-1.0.7.gemspec
+I, [2014-05-24T19:01:48.611413 #8461]  INFO -- : 0:  selenium-webdriver (2.35.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/selenium-webdriver-2.35.1.gemspec
+I, [2014-05-24T19:01:48.611632 #8461]  INFO -- : 0:  spork-rails (4.0.0) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/spork-rails-4.0.0.gemspec
+I, [2014-05-24T19:01:48.611883 #8461]  INFO -- : 0:  sqlite3 (1.3.8) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/sqlite3-1.3.8.gemspec
+I, [2014-05-24T19:01:48.612101 #8461]  INFO -- : 0:  uglifier (2.1.1) from /Users/alexandr/.rvm/gems/ruby-2.1.0@law/specifications/uglifier-2.1.1.gemspec

@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12" style="text-align: center;">
+<p>
+  <strong><%= (t 'contacts.name') %>:</strong>
+  <%= @contact.email %>
+</p>
+
+<p>
+  <strong><%= (t 'contacts.email') %>:</strong>
+  <%= @contact.name %>
+</p>
+
+<p>
+  <strong><%= (t 'contacts.phone') %>:</strong>
+  <%= @contact.phone %>
+</p>
+
+<p>
+  <strong><%= (t 'contacts.content') %>:</strong>
+  <%= @contact.content %>
+</p>
+
+          <%= link_to (t 'button.root'), root_path, class: "btn btn-lg btn-success" %>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,100 @@
+# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+ua:
+  not_found: "-"
+  full_site: "Полная версия сайта"
+  mobile_site: "Мобильная версия сайта"
+  main:
+    start_teleporting_today: "Мы самая крутая юридическая компания"
+    small_about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  menu:
+    about_us: "О нас"
+    blog: "Блог"
+    contact_us: "Контакты"
+    about_us_f: "О НАС"
+    contact_us_f: "КОНТАКТЫ"
+  contact:
+    get_social: "Мы в социальных сетях"
+    say_hello: "Свяжитесь с нами!"
+    contact: "Контакты"
+    contact_text: "Хотите получить бесплатную юридическую консультацию - Напишите нам"
+  blog:
+    categories: "Категории"
+    created_at: "Created at"
+    all: "Все"
+    news: "Новости"
+    specials: "Акции"
+    analytics: "Статьи"
+    companies_news: "Новости компаний"
+    latest_news: "Последние новости"
+    new_blog: "Новая новость"
+    title: "Название"
+    content: "Контент"
+    language: "Язык"
+    content_type: "Категория"
+  button:
+    delete: "Удалить"
+    show: "Показать"
+    edit: "Редактировать"
+    ok: "OK"
+    back: "Назад"
+  user:
+    all_users: "Все пользователи"
+    name: "Имя"
+    e-mail: "E-mail"
+    role: "Роль"
+    created_at: "Created at"
+  admin:
+    admin_management: "Управление сайтом"
+    users: "Пользователи"
+    new_blog: "Новая новость"
+    mail: "Отправить e-mail"
+    site_desctop_version_check: "Site full version"
+    site_mobile_version_check: "Мобильная версия сайта"
+    contact: "Contacts"
+  newsletters:
+    listing_newsletters: "Список рассылок"
+    to: "Кому"
+    blog: "Блог"
+    subject: "Тема"
+    language: "Язык"
+    blog_title: "Название блога"
+    blog_content: "Контент блога"
+    status: "Статус"
+    new: "Новая рассылка"
+    edit: "Редактировать рассылку"
+    created_at: "Создано"
+    subject_news: "Новости"
+    subject_specials: "Акции"
+    analytics: "Статьи"
+    subject_companies_news: "Новости компаний"
+  contacts:
+    listing_contacts: "Listing contacts"
+    name: "Имя"
+    email: "E-mail"
+    phone: "Телефон"
+    content: "Content"
+    company_name: "Law Assistant LLC"
+    phone_c: "+38 044 384 4160 | +38 067 466 9359"
+    address_c: "Украина, Киев, ул. Академика Крымского, 27А"
+  content:
+    about_service: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."

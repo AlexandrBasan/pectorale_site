@@ -1,0 +1,13 @@
+<header class="navbar navbar-default navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <%= link_to image_tag("logo-2.png", alt: "Pectorale"), root_path + "#top", :class => "brand" %>
+      <nav>
+        <ul class="nav nav-pills pull-right">
+              <li><%= link_to (I18n.t 'menu.about_us'), root_path + "#about_us" %></li>
+          <li><%= link_to (I18n.t 'menu.contact_us'), root_path + "#contact_us" %></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>

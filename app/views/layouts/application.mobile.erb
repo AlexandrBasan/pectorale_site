@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= full_title(yield(:title)) %></title>
+    <%= stylesheet_link_tag "application", media: "all" %>
+    <%= javascript_include_tag "application" %>
+    <%= csrf_meta_tags %>
+    <%= render 'static_pages/mobile/shim' %>
+    <%= favicon_link_tag 'favicon.ico' %>
+    <!--Google Analytics-->
+
+    <!--Google Analytics-->
+  </head>
+  <body>
+  <p>
+    <% if mobile_device? %>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+        <%= link_to (I18n.t 'full_site'), {:mobile => 0}, class: "btn btn-lg btn-primary" %>
+      </div>
+        </div>
+      </div>
+  <% else %>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+        <%= link_to (I18n.t 'mobile_site'), {:mobile => 1}, class: "btn btn-lg btn-primary" %>
+      </div>
+        </div>
+      </div>
+  <% end %>
+  </p>
+    <%= render 'static_pages/mobile/header' %>
+  <%= content = yield %>
+  <!--Back To Top Button-->
+  <% if content.length > 1200 %>
+      <%= link_to("#top") do %>
+          <div id="backtotop" style="display: block;">
+          </div>
+      <% end %>
+  <% end %>
+      <div class="container">
+      <%= render 'static_pages/mobile/footer' %>
+      <%= debug(params) if Rails.env.development? %>
+      </div>
+  </body>
+</html>
