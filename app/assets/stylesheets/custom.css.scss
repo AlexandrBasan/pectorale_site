@@ -314,6 +314,12 @@ aside {
   overflow: hidden;
 }
 
+#map-canvas {
+  height: 100%;
+  margin: 0px;
+  padding: 0px
+}
+
 
 .overlay:after {
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAHUlEQVQIW2NkYGD4D8SM6DRIAAQwJDFUwhRRUQcALRkSBISGlPAAAAAASUVORK5CYII=") repeat top left;
