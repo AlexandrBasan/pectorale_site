@@ -13,7 +13,7 @@ function initialize() {
  * https://developers.google.com/maps/documentation/javascript/examples/icon-complex
  * http://www.latlong.net/convert-address-to-lat-long.html
  * https://developers.google.com/maps/documentation/javascript/examples/event-simple
- *
+ * https://developers.google.com/maps/documentation/javascript/examples/geocoding-simple
  *
  * Data for the markers consisting of a name, a LatLng and a zIndex for
  * the order in which these markers should display on top of each
