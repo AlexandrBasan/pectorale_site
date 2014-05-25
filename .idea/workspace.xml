@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5279249c-9de9-4aae-a271-521e3415afb7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pectorale_site.iws" />
@@ -38,25 +40,29 @@
       <file leaf-file-name="custom.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="314" column="1" selection-start="4472" selection-end="4646" vertical-scroll-proportion="0.0" vertical-offset="4297" max-vertical-offset="5205">
-              <folding />
+            <state line="320" column="13" selection-start="4723" selection-end="4723" vertical-scroll-proportion="-5.16" vertical-offset="4542" max-vertical-offset="5205">
+              <folding>
+                <element signature="e#4759#4904#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_contacts.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_contacts.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="41" selection-start="0" selection-end="4999" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1860">
-              <folding />
+            <state line="13" column="29" selection-start="525" selection-end="526" vertical-scroll-proportion="0.33106962" vertical-offset="0" max-vertical-offset="1860">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="8" selection-start="33" selection-end="33" vertical-scroll-proportion="0.02446982" vertical-offset="0" max-vertical-offset="613">
+            <state line="1" column="8" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -65,8 +71,10 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="75" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="930">
-              <folding />
+            <state line="63" column="48" selection-start="2370" selection-end="2370" vertical-scroll-proportion="-7.0416665" vertical-offset="776" max-vertical-offset="1830">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,15 +116,16 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/google_maps.js" />
         <option value="$PROJECT_DIR$/config/locales/ua.yml" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="-7" />
+    <option name="y" value="68" />
     <option name="width" value="1280" />
     <option name="height" value="705" />
   </component>
@@ -345,7 +354,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="705" extended-state="6" />
+    <frame x="-7" y="68" width="1280" height="705" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -389,21 +398,27 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="7" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="319" column="1" selection-start="4696" selection-end="4696" vertical-scroll-proportion="0.0" vertical-offset="4380" max-vertical-offset="5190">
-          <folding />
+          <folding>
+            <element signature="e#4759#4904#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="39" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -431,7 +446,9 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="43" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="750">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -445,14 +462,18 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="319" column="1" selection-start="4696" selection-end="4696" vertical-scroll-proportion="0.0" vertical-offset="4380" max-vertical-offset="5190">
-          <folding />
+          <folding>
+            <element signature="e#4759#4904#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="39" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1890">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -485,7 +506,9 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="24" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="915">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -499,14 +522,18 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="297" column="16" selection-start="4440" selection-end="4440" vertical-scroll-proportion="0.0" vertical-offset="4095" max-vertical-offset="5115">
-          <folding />
+          <folding>
+            <element signature="e#4759#4904#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="106" column="42" selection-start="4327" selection-end="4327" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -546,14 +573,18 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="297" column="16" selection-start="4440" selection-end="4440" vertical-scroll-proportion="0.0" vertical-offset="4095" max-vertical-offset="5115">
-          <folding />
+          <folding>
+            <element signature="e#4759#4904#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="84" column="34" selection-start="2933" selection-end="2933" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="1620">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -593,7 +624,9 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="71" column="14" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="746" max-vertical-offset="4980">
-          <folding />
+          <folding>
+            <element signature="e#4759#4904#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -707,31 +740,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="8" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="1" selection-start="4472" selection-end="4646" vertical-scroll-proportion="0.0" vertical-offset="4297" max-vertical-offset="5205">
-          <folding />
+        <state line="320" column="13" selection-start="4723" selection-end="4723" vertical-scroll-proportion="-5.16" vertical-offset="4542" max-vertical-offset="5205">
+          <folding>
+            <element signature="e#4759#4904#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="75" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="930">
-          <folding />
+        <state line="63" column="48" selection-start="2370" selection-end="2370" vertical-scroll-proportion="-7.0416665" vertical-offset="776" max-vertical-offset="1830">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/_contacts.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="41" selection-start="0" selection-end="4999" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1860">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="8" selection-start="33" selection-end="33" vertical-scroll-proportion="0.02446982" vertical-offset="0" max-vertical-offset="613">
-          <folding />
+        <state line="13" column="29" selection-start="525" selection-end="526" vertical-scroll-proportion="0.33106962" vertical-offset="0" max-vertical-offset="1860">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
