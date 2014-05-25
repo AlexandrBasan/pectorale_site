@@ -12,7 +12,7 @@ function initialize() {
 /**
  * https://developers.google.com/maps/documentation/javascript/examples/icon-complex
  * http://www.latlong.net/convert-address-to-lat-long.html
- *
+ * https://developers.google.com/maps/documentation/javascript/examples/event-simple
  *
  *
  * Data for the markers consisting of a name, a LatLng and a zIndex for
@@ -59,6 +59,11 @@ function setMarkers(map, locations) {
         coords: [1, 1, 1, 20, 18, 20, 18 , 1],
         type: 'poly'
     };
+    // infowindow - for all marker
+    var infowindow = new google.maps.InfoWindow();
+    var marker, i;
+    // infowindow - for all marker
+
     for (var i = 0; i < locations.length; i++) {
         var beach = locations[i];
         var myLatLng = new google.maps.LatLng(beach[1], beach[2]);
@@ -70,6 +75,14 @@ function setMarkers(map, locations) {
             title: beach[0],
             zIndex: beach[3]
         });
+        // center to marker if click
+        google.maps.event.addListener(marker, 'click', (function(marker, i) {
+            return function() {
+                map.setZoom(14);
+                map.setCenter(marker.getPosition());
+            }
+        })(marker, i));
+        // center to marker if click
     }
 }
 
