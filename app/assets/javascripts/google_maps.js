@@ -1,7 +1,7 @@
 function initialize() {
     var mapOptions = {
-        zoom: 10,
-        center: new google.maps.LatLng(-33.9, 151.2)
+        zoom: 8,
+        center: new google.maps.LatLng(50.450100, 30.523400)
     }
     var map = new google.maps.Map(document.getElementById('map-canvas'),
         mapOptions);
@@ -10,16 +10,25 @@ function initialize() {
 }
 
 /**
+ * https://developers.google.com/maps/documentation/javascript/examples/icon-complex
+ * http://www.latlong.net/convert-address-to-lat-long.html
+ *
+ *
+ *
  * Data for the markers consisting of a name, a LatLng and a zIndex for
  * the order in which these markers should display on top of each
  * other.
  */
 var beaches = [
-    ['Bondi Beach', -33.890542, 151.274856, 4],
-    ['Coogee Beach', -33.923036, 151.259052, 5],
-    ['Cronulla Beach', -34.028249, 151.157507, 3],
-    ['Manly Beach', -33.80010128657071, 151.28747820854187, 2],
-    ['Maroubra Beach', -33.950198, 151.259302, 1]
+    ['м. Київ, вул. Академіка Булаховського 5Б', 50.469996, 30.338976, 4],
+    ['м. Київ, вул. Фрунзе 109В/1', 50.392798, 30.699146, 5],
+    ['м. Київ, вул. Братиславська 14А', 50.467360, 30.627904, 3],
+    ['м. Київ, вул. Декабристів 3', 50.406378 , 30.656502, 2],
+    ['м. Боярка, вул. Білогородська 43', 50.327827, 30.292287, 1],
+    ['м. Васильків, вул. Володимирська 13', 50.174333, 30.320791, 6],
+    ['м. Фастів, вул. Соборна 47', 50.079300, 29.912633, 7],
+    ['м. Біла Церква, вул. Леваневського 32', 49.785185, 30.152080, 8],
+    ['м. Буча, вул. Енергетиків 14А', 50.550136, 30.208964, 9]
 ];
 
 function setMarkers(map, locations) {

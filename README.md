@@ -1,9 +1,5 @@
-# Law project
+# Pectarale.com.ua
 
-    $ cd /tmp
-    $ git clone https://github.com/railstutorial/sample_app_rails_4.git
-    $ cd sample_app_rails_4
-    $ cp config/database.yml.example config/database.yml
     $ bundle install
     $ bundle install --without production - without production gems
     $ bundle exec rake db:migrate
@@ -22,22 +18,6 @@ GIT
 	$ git push
 
 	$ git pull - pull repository to server
-
-Create a new repository on the command line
-
-touch README.md
-
-	$ git init
-	$ git add README.md
-	$ git commit -m "first commit"
-	$ git remote add origin https://github.com/Proalab/rubyonrails.git
-	$ git push -u origin master
-	
-Push an existing repository from the command line
-
-	$ git remote add origin https://github.com/Proalab/rubyonrails.git
-	$ git push -u origin master
-
 
 Heroku
 
