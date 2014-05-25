@@ -27,15 +27,16 @@ ua:
     start_teleporting_today: "Мы самая крутая юридическая компания"
     small_about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   menu:
-    about_us: "О нас"
+    about_lombard: "Мережа ломбардив в Киэви и Киевской области"
+    about_us: "Кредити під заставу"
     about_us_pluses: "Наші переваги"
     about_us_pluses_text: "Взявши кредит в нашому ломбарді, ви сплачуєте низький процент за користування кредитом, а у разі прострочення строку договору - низький процент пені та отримуєте 5 додаткових днів.
                            У нас відсутні приховані платежі та комісії, працює гнучка система знижок і бонусів, а також визнаються дисконтні картки інших ломбардів.
                            Ми практикуємо індивідуальний підхід до кожного клієнта, та завжди раді йти вам назустріч у разі прострочення договору."
     blog: "Блог"
-    contact_us: "Контакты"
-    about_us_f: "О НАС"
-    contact_us_f: "КОНТАКТЫ"
+    contact_us: "Адреси наших відділень"
+    about_us_f: "Кредити під заставу"
+    contact_us_f: "Адреси наших відділень"
   contact:
     get_social: "Мы в социальных сетях"
     say_hello: "Мы ближе чем Вы думаете!"
