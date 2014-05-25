@@ -11,7 +11,7 @@ class ApplicationController < ActionController::Base
 
   def set_locale
     # Check user browser language
-      I18n.locale = params[:locale] || I18n.default_locale
+    I18n.default_locale
   end
 
 # Mobile
