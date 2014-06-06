@@ -340,3 +340,13 @@ p#notice {
   font-size: 20pt;
   color: #5cb85c;
 }
+
+/* CEO text hight */
+.hidBlock {
+  position: fixed;
+  top: 0;
+  z-index: -100;
+  width: 940px;
+  color: transparent;
+  font-size: 0px;
+}
