@@ -24,3 +24,10 @@ doc/
 .idea/workspace.xml
 
 .idea/workspace.xml
+tmp/
+
+tmp/cache/assets/development/sprockets/e71bd6ae63d35de9db6ab673944e52e6
+
+tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655
+
+*.log
