@@ -96,8 +96,8 @@ function setMarkers(map, locations) {
 }
 
 
-function codeAddress() {
-    var address = document.getElementById('address').value;
+function codeAddress(element_address) {
+    var address = document.getElementById(element_address).value;
     var image = {
         url: '/assets/bullet.png',
         // This marker is 20 pixels wide by 32 pixels tall.
